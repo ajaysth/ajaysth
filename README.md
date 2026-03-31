@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Nepal.</h3>
 
 
-- 🌱 I’m currently learning **React, Next JS,**
+- 🌱 I’m currently learning **React, Next JS, Node JS**
 
 - 📫 How to reach me **ajayshrestha130@gmail.com**
 
